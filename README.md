@@ -51,7 +51,7 @@ iiMedia Research (艾媒咨询)数据显示，受访移动社交用户中62.2%�
 
 #### 一、竞品社交、推荐功能架构图 
 
-![1]( images\cubox功能架构图.jpg)
+![1]( images/cubox功能架构图.jpg)
 
 #### 二、竞品简介
 
